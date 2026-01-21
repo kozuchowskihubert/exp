@@ -1,0 +1,252 @@
+01-azure-data-engineer.txt
+02-aws-devops.txt
+03-docker-k8s.txt
+2016-10-16_Hubert-Kozuchowski_Cisco_IT_Essentials 2.pdf
+2016-10-16_Hubert-Kozuchowski_Cisco_IT_Essentials 3.pdf
+2016-10-16_Hubert-Kozuchowski_Cisco_IT_Essentials 4.pdf
+2016-10-16_Hubert-Kozuchowski_Cisco_IT_Essentials.pdf
+2017-03-23_Hubert-Kozuchowski_Comarch_ERP_Optima 2.pdf
+2017-03-23_Hubert-Kozuchowski_Comarch_ERP_Optima 3.pdf
+2017-03-23_Hubert-Kozuchowski_Comarch_ERP_Optima 4.pdf
+2017-03-23_Hubert-Kozuchowski_Comarch_ERP_Optima.pdf
+2017-06-08_Hubert-Kozuchowski_Konfiguracja_infrastruktury_Azure 2.pdf
+2017-06-08_Hubert-Kozuchowski_Konfiguracja_infrastruktury_Azure 3.pdf
+2017-06-08_Hubert-Kozuchowski_Konfiguracja_infrastruktury_Azure 4.pdf
+2017-06-08_Hubert-Kozuchowski_Konfiguracja_infrastruktury_Azure.pdf
+2017-11-13_Hubert-Kozuchowski_Cisco_CCNA_RS_Introduction_Networks 2.pdf
+2017-11-13_Hubert-Kozuchowski_Cisco_CCNA_RS_Introduction_Networks 3.pdf
+2017-11-13_Hubert-Kozuchowski_Cisco_CCNA_RS_Introduction_Networks 4.pdf
+2017-11-13_Hubert-Kozuchowski_Cisco_CCNA_RS_Introduction_Networks.pdf
+2017-12-22_Hubert-Kozuchowski_Altaro_VM_Backup 2.pdf
+2017-12-22_Hubert-Kozuchowski_Altaro_VM_Backup 3.pdf
+2017-12-22_Hubert-Kozuchowski_Altaro_VM_Backup 4.pdf
+2017-12-22_Hubert-Kozuchowski_Altaro_VM_Backup.pdf
+2018-04-10_Hubert-Kozuchowski_Cisco_Cybersecurity_Introduction 2.pdf
+2018-04-10_Hubert-Kozuchowski_Cisco_Cybersecurity_Introduction 3.pdf
+2018-04-10_Hubert-Kozuchowski_Cisco_Cybersecurity_Introduction 4.pdf
+2018-04-10_Hubert-Kozuchowski_Cisco_Cybersecurity_Introduction.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Availability_Suite 2.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Availability_Suite 3.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Availability_Suite 4.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Availability_Suite.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Technical_Overview 2.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Technical_Overview 3.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Technical_Overview 4.pdf
+2018-05-22_Hubert-Kozuchowski_Veeam_Technical_Overview.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMSPv8 2.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMSPv8 3.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMSPv8 4.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMSPv8.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMTSPv9.5 2.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMTSPv9.5 3.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMTSPv9.5 4.pdf
+2018-05-24_Hubert-Kozuchowski_Veeam_VMTSPv9.5.pdf
+2018-05-25_Hubert-Kozuchowski_Veeam_VMTSPv8 2.pdf
+2018-05-25_Hubert-Kozuchowski_Veeam_VMTSPv8 3.pdf
+2018-05-25_Hubert-Kozuchowski_Veeam_VMTSPv8 4.pdf
+2018-05-25_Hubert-Kozuchowski_Veeam_VMTSPv8.pdf
+2018-05-28_Hubert-Kozuchowski_Veeam_VMSPv9.5 2.pdf
+2018-05-28_Hubert-Kozuchowski_Veeam_VMSPv9.5 3.pdf
+2018-05-28_Hubert-Kozuchowski_Veeam_VMSPv9.5 4.pdf
+2018-05-28_Hubert-Kozuchowski_Veeam_VMSPv9.5.pdf
+2018-06-05_Hubert-Kozuchowski_NDG_Linux 2.pdf
+2018-06-05_Hubert-Kozuchowski_NDG_Linux 3.pdf
+2018-06-05_Hubert-Kozuchowski_NDG_Linux 4.pdf
+2018-06-05_Hubert-Kozuchowski_NDG_Linux.pdf
+2018-06-06_Hubert-Kozuchowski_CCNA_RS_Routing&Switching 2.pdf
+2018-06-06_Hubert-Kozuchowski_CCNA_RS_Routing&Switching 3.pdf
+2018-06-06_Hubert-Kozuchowski_CCNA_RS_Routing&Switching 4.pdf
+2018-06-06_Hubert-Kozuchowski_CCNA_RS_Routing&Switching.pdf
+2018-07-02_Hubert-Kozuchowski_PowerShell_GS 2.pdf
+2018-07-02_Hubert-Kozuchowski_PowerShell_GS 3.pdf
+2018-07-02_Hubert-Kozuchowski_PowerShell_GS 4.pdf
+2018-07-02_Hubert-Kozuchowski_PowerShell_GS.pdf
+2018-07-03_Hubert-Kozuchowski_PowerShell_DSC 2.pdf
+2018-07-03_Hubert-Kozuchowski_PowerShell_DSC 3.pdf
+2018-07-03_Hubert-Kozuchowski_PowerShell_DSC 4.pdf
+2018-07-03_Hubert-Kozuchowski_PowerShell_DSC.pdf
+2018-07-10_Hubert-Kozuchowski_PowerShell_Advanced_Tools&Scripting 2.pdf
+2018-07-10_Hubert-Kozuchowski_PowerShell_Advanced_Tools&Scripting 3.pdf
+2018-07-10_Hubert-Kozuchowski_PowerShell_Advanced_Tools&Scripting 4.pdf
+2018-07-10_Hubert-Kozuchowski_PowerShell_Advanced_Tools&Scripting.pdf
+2018-08-16_Hubert-Kozuchowski_Cisco_Introduction_IoT 2.pdf
+2018-08-16_Hubert-Kozuchowski_Cisco_Introduction_IoT 3.pdf
+2018-08-16_Hubert-Kozuchowski_Cisco_Introduction_IoT 4.pdf
+2018-08-16_Hubert-Kozuchowski_Cisco_Introduction_IoT.pdf
+2018-08-16_Hubert-Kozuchowski_NDG_Linux_Essentials 2.pdf
+2018-08-16_Hubert-Kozuchowski_NDG_Linux_Essentials 3.pdf
+2018-08-16_Hubert-Kozuchowski_NDG_Linux_Essentials 4.pdf
+2018-08-16_Hubert-Kozuchowski_NDG_Linux_Essentials.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Migracja_VMware_do_Hyper-V 2.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Migracja_VMware_do_Hyper-V 3.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Migracja_VMware_do_Hyper-V 4.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Migracja_VMware_do_Hyper-V.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Platforma_Informacyjna_SQL_Server 2.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Platforma_Informacyjna_SQL_Server 3.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Platforma_Informacyjna_SQL_Server 4.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Platforma_Informacyjna_SQL_Server.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_Administracji_SQL Server_2014 2.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_Administracji_SQL Server_2014 3.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_Administracji_SQL Server_2014 4.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_Administracji_SQL Server_2014.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_C# 2.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_C# 3.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_C# 4.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_C#.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_TSQL 2.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_TSQL 3.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_TSQL 4.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Podstawy_TSQL.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Relacyjne_Bazy_Danych_SQL_Server_2014 2.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Relacyjne_Bazy_Danych_SQL_Server_2014 3.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Relacyjne_Bazy_Danych_SQL_Server_2014 4.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Relacyjne_Bazy_Danych_SQL_Server_2014.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Wirtualizacja_Microsoft_dla_administratorów_VMWare 2.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Wirtualizacja_Microsoft_dla_administratorów_VMWare 3.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Wirtualizacja_Microsoft_dla_administratorów_VMWare 4.pdf
+2018-08-21-Hubert-Kozuchowski-MVA_Wirtualizacja_Microsoft_dla_administratorów_VMWare.pdf
+2018-09-13_Hubert-Kozuchowski_PowerShell_DSC_Advanced 2.pdf
+2018-09-13_Hubert-Kozuchowski_PowerShell_DSC_Advanced 3.pdf
+2018-09-13_Hubert-Kozuchowski_PowerShell_DSC_Advanced 4.pdf
+2018-09-13_Hubert-Kozuchowski_PowerShell_DSC_Advanced.pdf
+2018-09-13-Hubert_Kozuchowski-MVA_Windows_Server_2012_R2_Server_Networking 2.pdf
+2018-09-13-Hubert_Kozuchowski-MVA_Windows_Server_2012_R2_Server_Networking 3.pdf
+2018-09-13-Hubert_Kozuchowski-MVA_Windows_Server_2012_R2_Server_Networking 4.pdf
+2018-09-13-Hubert_Kozuchowski-MVA_Windows_Server_2012_R2_Server_Networking.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Server_Virtualization_Windows_Server_Hyper-V&System_Center 2.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Server_Virtualization_Windows_Server_Hyper-V&System_Center 3.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Server_Virtualization_Windows_Server_Hyper-V&System_Center 4.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Server_Virtualization_Windows_Server_Hyper-V&System_Center.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_System_Center_2012_R2 2.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_System_Center_2012_R2 3.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_System_Center_2012_R2 4.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_System_Center_2012_R2.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012 R2_Virtualization 2.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012 R2_Virtualization 3.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012 R2_Virtualization 4.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012 R2_Virtualization.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2 Storage 2.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2 Storage 3.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2 Storage 4.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2 Storage.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Using_IPAM 2.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Using_IPAM 3.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Using_IPAM 4.pdf
+2018-09-13-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Using_IPAM.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Access&Information_Protection 2.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Access&Information_Protection 3.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Access&Information_Protection 4.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Access&Information_Protection.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Active_Directory_Enhancements 2.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Active_Directory_Enhancements 3.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Active_Directory_Enhancements 4.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Active_Directory_Enhancements.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Implementing_Basic_PKI 2.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Implementing_Basic_PKI 3.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Implementing_Basic_PKI 4.pdf
+2018-09-25-Hubert-Kozuchowski-MVA_Windows_Server_2012_R2_Implementing_Basic_PKI.pdf
+2018-10-09-Hubert-Kozuchowski-MVA_Microsoft_Azure_Maszyny_Wirtualne 2.pdf
+2018-10-09-Hubert-Kozuchowski-MVA_Microsoft_Azure_Maszyny_Wirtualne 3.pdf
+2018-10-09-Hubert-Kozuchowski-MVA_Microsoft_Azure_Maszyny_Wirtualne 4.pdf
+2018-10-09-Hubert-Kozuchowski-MVA_Microsoft_Azure_Maszyny_Wirtualne.pdf
+2018-11-20-Hubert-Kozuchowski-MVA_DevOps_IT_Pro 2.pdf
+2018-11-20-Hubert-Kozuchowski-MVA_DevOps_IT_Pro 3.pdf
+2018-11-20-Hubert-Kozuchowski-MVA_DevOps_IT_Pro 4.pdf
+2018-11-20-Hubert-Kozuchowski-MVA_DevOps_IT_Pro.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Application_Performance_Monitoring 2.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Application_Performance_Monitoring 3.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Application_Performance_Monitoring 4.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Application_Performance_Monitoring.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Azure_with_Chief 2.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Azure_with_Chief 3.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Azure_with_Chief 4.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Azure_with_Chief.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_Azure_Resource_Manager 2.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_Azure_Resource_Manager 3.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_Azure_Resource_Manager 4.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_Azure_Resource_Manager.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_ITIL 2.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_ITIL 3.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_ITIL 4.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_DevOps_ITIL.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Fundamentals_Application_Lifecycle 2.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Fundamentals_Application_Lifecycle 3.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Fundamentals_Application_Lifecycle 4.pdf
+2018-11-21-Hubert-Kozuchowski-MVA_Fundamentals_Application_Lifecycle.pdf
+2018-12-05-Hubert-Kozuchowski-MVA_PowerShell_Advanced 2.pdf
+2018-12-05-Hubert-Kozuchowski-MVA_PowerShell_Advanced 3.pdf
+2018-12-05-Hubert-Kozuchowski-MVA_PowerShell_Advanced 4.pdf
+2018-12-05-Hubert-Kozuchowski-MVA_PowerShell_Advanced.pdf
+2018-12-07_Hubert-Kozuchowski_Cisco_CCNA_RS_Scaling_Networks 2.pdf
+2018-12-07_Hubert-Kozuchowski_Cisco_CCNA_RS_Scaling_Networks 3.pdf
+2018-12-07_Hubert-Kozuchowski_Cisco_CCNA_RS_Scaling_Networks 4.pdf
+2018-12-07_Hubert-Kozuchowski_Cisco_CCNA_RS_Scaling_Networks.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Cybersecurity_Reference_Architecture 2.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Cybersecurity_Reference_Architecture 3.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Cybersecurity_Reference_Architecture 4.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Cybersecurity_Reference_Architecture.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_10_Device_Guard 2.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_10_Device_Guard 3.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_10_Device_Guard 4.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_10_Device_Guard.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_2016_Breach_Resistance 2.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_2016_Breach_Resistance 3.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_2016_Breach_Resistance 4.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_2016_Breach_Resistance.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_Deploying_Shielded_VMs&Guarded_Fabric 2.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_Deploying_Shielded_VMs&Guarded_Fabric 3.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_Deploying_Shielded_VMs&Guarded_Fabric 4.pdf
+2019-01-30-Hubert-Kozuchowski-MVA_Windows_Server_Deploying_Shielded_VMs&Guarded_Fabric.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Event_Forwarding&Log_Analysis 2.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Event_Forwarding&Log_Analysis 3.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Event_Forwarding&Log_Analysis 4.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Event_Forwarding&Log_Analysis.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Windows_Security&Forensics 2.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Windows_Security&Forensics 3.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Windows_Security&Forensics 4.pdf
+2019-01-31-Hubert-Kozuchowski-MVA_Windows_Security&Forensics.pdf
+2019-03-31_Hubert-Kozuchowski_UML_OCUP2_Foundation 2.pdf
+2019-03-31_Hubert-Kozuchowski_UML_OCUP2_Foundation 3.pdf
+2019-03-31_Hubert-Kozuchowski_UML_OCUP2_Foundation 4.pdf
+2019-03-31_Hubert-Kozuchowski_UML_OCUP2_Foundation.pdf
+2019-06-03_Hubert-Kozuchowski_PowerShell_MS_55039_Scripting&Toolmaking 2.pdf
+2019-06-03_Hubert-Kozuchowski_PowerShell_MS_55039_Scripting&Toolmaking 3.pdf
+2019-06-03_Hubert-Kozuchowski_PowerShell_MS_55039_Scripting&Toolmaking 4.pdf
+2019-06-03_Hubert-Kozuchowski_PowerShell_MS_55039_Scripting&Toolmaking.pdf
+2020-11-28_Hubert-Kozuchowski_Cisco_CCNA_RS_Connecting_Networks 2.pdf
+2020-11-28_Hubert-Kozuchowski_Cisco_CCNA_RS_Connecting_Networks 3.pdf
+2020-11-28_Hubert-Kozuchowski_Cisco_CCNA_RS_Connecting_Networks 4.pdf
+2020-11-28_Hubert-Kozuchowski_Cisco_CCNA_RS_Connecting_Networks.pdf
+2020-12-21-Hubert-Kozuchowski-DevOps_SREF_Certificate 2.pdf
+2020-12-21-Hubert-Kozuchowski-DevOps_SREF_Certificate 3.pdf
+2020-12-21-Hubert-Kozuchowski-DevOps_SREF_Certificate 4.pdf
+2020-12-21-Hubert-Kozuchowski-DevOps_SREF_Certificate.pdf
+2021-01-27-Hubert-Kozuchowski-Developing_Google_SRE_Culture 2.pdf
+2021-01-27-Hubert-Kozuchowski-Developing_Google_SRE_Culture 3.pdf
+2021-01-27-Hubert-Kozuchowski-Developing_Google_SRE_Culture 4.pdf
+2021-01-27-Hubert-Kozuchowski-Developing_Google_SRE_Culture.pdf
+2021-02-02-Hubert-Kozuchowski-Introduction_to_Cloud_Computing 2.pdf
+2021-02-02-Hubert-Kozuchowski-Introduction_to_Cloud_Computing 3.pdf
+2021-02-02-Hubert-Kozuchowski-Introduction_to_Cloud_Computing 4.pdf
+2021-02-02-Hubert-Kozuchowski-Introduction_to_Cloud_Computing.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Developer_ Working _With_Azure_Functions 2.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Developer_ Working _With_Azure_Functions 3.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Developer_ Working _With_Azure_Functions 4.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Developer_ Working _With_Azure_Functions.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Infrastructure_Fundamentals 2.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Infrastructure_Fundamentals 3.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Infrastructure_Fundamentals 4.pdf
+2021-02-03-Hubert-Kozuchowski-Azure_Infrastructure_Fundamentals.pdf
+2021-02-03-Hubert-Kozuchowski-Developing_AI_Applications_on_Azure 2.pdf
+2021-02-03-Hubert-Kozuchowski-Developing_AI_Applications_on_Azure 3.pdf
+2021-02-03-Hubert-Kozuchowski-Developing_AI_Applications_on_Azure 4.pdf
+2021-02-03-Hubert-Kozuchowski-Developing_AI_Applications_on_Azure.pdf
+2021-02-08-Hubert-Kozuchowski-Site_Reliability_Engineering_Measuring 2.pdf
+2021-02-08-Hubert-Kozuchowski-Site_Reliability_Engineering_Measuring 3.pdf
+2021-02-08-Hubert-Kozuchowski-Site_Reliability_Engineering_Measuring 4.pdf
+2021-02-08-Hubert-Kozuchowski-Site_Reliability_Engineering_Measuring.pdf
+2021-03-23-Hubert-Kozuchowski-DevOps_Foundation_Certificate 2.pdf
+2021-03-23-Hubert-Kozuchowski-DevOps_Foundation_Certificate 3.pdf
+2021-03-23-Hubert-Kozuchowski-DevOps_Foundation_Certificate 4.pdf
+2021-03-23-Hubert-Kozuchowski-DevOps_Foundation_Certificate.pdf
+README.md

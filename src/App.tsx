@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './index.css';
+import { certData } from './certData';
 
 function App() {
   const [activeTab, setActiveTab] = useState('mission');
@@ -16,6 +17,19 @@ function App() {
   ];
 
   const experience = [
+    {
+      role: "Cloud DevOps Engineer (Consultant)",
+      company: "Self-Employed",
+      period: "2020.01 – Present",
+      color: "var(--neon-pink)",
+      description: "Delivering expert DevOps consultancy and cloud architecture solutions. Specialized in migrating legacy workloads to Azure/AWS and implementing GitOps workflows.",
+      achievements: [
+        "Architected cloud-native solutions for diverse clients, leveraging Azure App Service and AWS Lambda.",
+        "Implemented comprehensive CI/CD pipelines using GitHub Actions and Azure DevOps, reducing deployment times by 60%.",
+        "Designed robust Infrastructure as Code (IaC) libraries with Terraform and Bicep.",
+        "Developed 'Flight Beat Engine', a complex React/Node.js audio processing application interacting with cloud services."
+      ]
+    },
     {
       role: "Identity & Access Management Specialist",
       company: "Accenture",
@@ -42,18 +56,6 @@ function App() {
         "Optimized Windows Server environments for performance and security compliance."
       ]
     }
-  ];
-
-  const certifications = [
-    { name: "IBM Applied DevOps Engineering", issuer: "IBM", date: "2024.02", id: "DEV-IBM-001" },
-    { name: "Meta Front-End Developer", issuer: "Meta", date: "2024.02", id: "META-FE-2024" },
-    { name: "DevOps on AWS Specialization", issuer: "AWS", date: "2023", id: "AWS-DOP-PRO" },
-    { name: "Microsoft Azure Data Engineering", issuer: "Microsoft", date: "2023.02", id: "AZ-203" },
-    { name: "Docker, Kubernetes and OpenShift", issuer: "IBM", date: "2023.12", id: "IB-CONT-01" },
-    { name: "App Dev using Microservices & Serverless", issuer: "IBM", date: "2023.12", id: "IBM-SERV-01" },
-    { name: "Reliable Google Cloud Infrastructure", issuer: "Google Cloud", date: "2021.06", id: "GCP-SRE-01" },
-    { name: "Site Reliability Engineering (SRE) Foundation", issuer: "DevOps Institute", date: "2021", id: "SRE-F-01" },
-    { name: "CCNA Routing and Switching", issuer: "Cisco", date: "2017", id: "CSCO-1293" }
   ];
 
   return (
@@ -307,31 +309,50 @@ function App() {
             <div className="fade-in">
               <h2 className="section-title">Clearance Levels (Certifications)</h2>
               <p style={{ color: '#888', marginBottom: '20px', fontSize: '0.9rem' }}>
-                verified_credentials_v2.json | STATUS: COMPLIANT
+                verified_credentials_v2.json | STATUS: COMPLIANT | TOTAL RECORDS: {certData.reduce((acc, cat) => acc + cat.items.length, 0)}
               </p>
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '20px' }}>
-                {certifications.map((cert, i) => (
-                  <div key={i} style={{
-                    background: 'rgba(255,255,255,0.02)',
-                    padding: '20px',
-                    border: '1px solid var(--glass-border)',
-                    borderLeft: `3px solid ${i % 2 === 0 ? 'var(--neon-blue)' : 'var(--neon-purple)'}`,
-                    transition: 'all 0.3s'
-                  }}
-                    onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
-                    onMouseLeave={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.02)'}
-                  >
-                    <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '5px' }}>
-                      <span style={{ fontSize: '0.7rem', color: '#888' }}>ISSUER: {cert.issuer}</span>
-                      <span style={{ fontSize: '0.7rem', color: '#666' }}>{cert.date}</span>
-                    </div>
-                    <div style={{ fontWeight: 'bold', fontSize: '1.1rem', marginBottom: '10px' }}>{cert.name}</div>
-                    <div style={{ fontSize: '0.8rem', fontFamily: 'monospace', color: 'var(--neon-blue)' }}>
-                      ID: {cert.id}
-                    </div>
+
+              {certData.map((category, catIndex) => (
+                <div key={catIndex} style={{ marginBottom: '40px' }}>
+                  <h3 style={{
+                    color: 'var(--neon-blue)',
+                    borderBottom: '1px solid var(--glass-border)',
+                    paddingBottom: '10px',
+                    marginBottom: '20px'
+                  }}>
+                    {category.category.toUpperCase()}
+                  </h3>
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '20px' }}>
+                    {category.items.map((cert, i) => (
+                      <div key={i} style={{
+                        background: 'rgba(255,255,255,0.02)',
+                        padding: '15px',
+                        border: '1px solid var(--glass-border)',
+                        borderLeft: `3px solid ${i % 2 === 0 ? 'var(--neon-blue)' : 'var(--neon-purple)'}`,
+                        transition: 'all 0.3s',
+                        display: 'flex',
+                        flexDirection: 'column',
+                        justifyContent: 'space-between'
+                      }}
+                        onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+                        onMouseLeave={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.02)'}
+                      >
+                        <div>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '5px' }}>
+                            <span style={{ fontSize: '0.7rem', color: '#888' }}>{cert.date}</span>
+                          </div>
+                          <div style={{ fontWeight: 'bold', fontSize: '1rem', marginBottom: '10px', lineHeight: '1.2' }}>{cert.name}</div>
+                        </div>
+                        <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+                          <a href={`/certs/${cert.file}`} target="_blank" className="btn-glitch" style={{ fontSize: '0.7rem', padding: '5px 10px', textTransform: 'uppercase' }}>
+                            View Cert
+                          </a>
+                        </div>
+                      </div>
+                    ))}
                   </div>
-                ))}
-              </div>
+                </div>
+              ))}
             </div>
           )}
 
