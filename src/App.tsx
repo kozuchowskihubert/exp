@@ -18,16 +18,42 @@ function App() {
 
   const experience = [
     {
-      role: "Cloud DevOps Engineer (Consultant)",
-      company: "Self-Employed",
-      period: "2020.01 – Present",
-      color: "var(--neon-pink)",
-      description: "Delivering expert DevOps consultancy and cloud architecture solutions. Specialized in migrating legacy workloads to Azure/AWS and implementing GitOps workflows.",
+      role: "DevOps Engineer & Platform Engineer",
+      company: "Procter & Gamble",
+      period: "2023.07 – Present",
+      color: "var(--neon-blue)",
+      description: "Managing over 600+ web/mobile sites on Azure. Leading centralized pipeline initiatives and enforcing security compliance across the enterprise.",
       achievements: [
-        "Architected cloud-native solutions for diverse clients, leveraging Azure App Service and AWS Lambda.",
-        "Implemented comprehensive CI/CD pipelines using GitHub Actions and Azure DevOps, reducing deployment times by 60%.",
-        "Designed robust Infrastructure as Code (IaC) libraries with Terraform and Bicep.",
-        "Developed 'Flight Beat Engine', a complex React/Node.js audio processing application interacting with cloud services."
+        "Implemented Centralized Pipelines using GitHub Actions, improving deployment standardization for 600+ sites.",
+        "Managed Azure infrastructure (App Service, Kubernetes, SQL) and Azure DevOps repositories.",
+        "Integrated security/accessibility testing (SNYK) into CI/CD workflows, reducing vulnerabilities by 60%.",
+        "Developed automated Next.js deployment strategies and monitoring dashboards (Grafana, Prometheus)."
+      ]
+    },
+    {
+      role: "IT Manager & Site Reliability Engineer",
+      company: "Procter & Gamble",
+      period: "2020.11 – 2023.06",
+      color: "var(--neon-purple)",
+      description: "Oversaw global website operations, automated provisioning, and SRE best practices. Focused on reliability, observability, and SLA compliance.",
+      achievements: [
+        "Automated website provisioning processes, significantly reducing manual setup time.",
+        "Introduced observability models (Log Analysis, Tracing) for WordPress platforms.",
+        "Managed high-availability environments and auto-scaling configurations.",
+        "Conducted regular outage reviews and bi-weekly CAB meetings to ensure platform stability."
+      ]
+    },
+    {
+      role: "Identity & Access Management Engineering Specialist",
+      company: "Accenture",
+      period: "2019.12 – 2020.10",
+      color: "var(--neon-pink)",
+      description: "Focused on advanced automation of IAM processes and PKI infrastructure. developed custom tools to streamline administrative tasks.",
+      achievements: [
+        "Developed bespoke PowerShell automation tools with GUI for Active Directory management.",
+        "Automated SSL certificate approval/rejection workflows via REST API.",
+        "Designed and monitored Public Key Infrastructure (PKI) and Hardware Security Modules (HSM).",
+        "Created complex SQL-based reports for audit and compliance."
       ]
     },
     {
@@ -35,12 +61,12 @@ function App() {
       company: "Accenture",
       period: "2018.11 – 2019.12",
       color: "var(--neon-blue)",
-      description: "Operated within a high-velocity enterprise environment managing identity infrastructure for over 500,000 users. Led automation initiatives to reduce manual toil and improve system reliability.",
+      description: "Administered enterprise identity infrastructure for 500k+ users. Managed global AD domains and supported MFA solutions.",
       achievements: [
-        "Orchestrated Active Directory infrastructure management for global enterprise clients.",
-        "Engineered automated health checks and monitoring solutions using PowerShell and SCOM.",
-        "Administered complex Multi-Factor Authentication (MFA) systems including Symantec VIP and Azure MFA.",
-        "Streamlined user provisioning workflows, reducing onboarding time by 40%."
+        "Managed Active Directory Domain Services for a global client (500k+ users, 1M+ devices).",
+        "Administered MFA solutions (Symantec VIP, Azure MFA) and Office 365/Exchange environments.",
+        "Automated SCOM agent health checks and remediation using PowerShell.",
+        "Provided 2nd line support for IAM incidents in a 'follow the sun' model."
       ]
     },
     {
@@ -48,12 +74,12 @@ function App() {
       company: "Wieża s.c.",
       period: "2017.01 – 2018.10",
       color: "var(--neon-purple)",
-      description: "Provided end-to-end infrastructure support and network engineering for MSP clients. Focused on virtualization and secure network design.",
+      description: "Delivered comprehensive IT support and infrastructure engineering for MSP clients.",
       achievements: [
-        "Designed and deployed secure LAN/VLAN architectures using Cisco and MikroTik equipment.",
-        "Managed Hyper-V virtualization clusters and implemented Veeam Backup & Replication strategies.",
-        "Resolved critical hardware and software incidents with strict SLA adherence.",
-        "Optimized Windows Server environments for performance and security compliance."
+        "Designed secure LAN/VLAN networks using Cisco, MikroTik, and Ubiquiti gear.",
+        "Deployed and managed virtualization clusters (Hyper-V) and backup systems (Veeam, Altaro).",
+        "Administered Windows Server environments (2008-2016) and Active Directory.",
+        "Provided remote and on-site support for ERP software and workstation hardware."
       ]
     }
   ];
@@ -253,6 +279,17 @@ function App() {
                       display: 'inline-block'
                     }}>
                       ACCESS SOURCE CODE
+                    </a>
+                    <a href="https://haos-fm.vercel.app" target="_blank" className="btn-glitch" style={{
+                      padding: '10px 20px',
+                      background: 'var(--neon-blue)',
+                      color: '#000',
+                      fontWeight: 'bold',
+                      display: 'inline-block',
+                      marginLeft: '15px',
+                      textDecoration: 'none'
+                    }}>
+                      LAUNCH SYSTEM
                     </a>
                   </div>
                 </div>
