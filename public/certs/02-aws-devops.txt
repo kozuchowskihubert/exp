@@ -1,0 +1,7 @@
+Placeholder Certificate: AWS Certified DevOps Engineer
+
+Replace with `02-aws-devops.pdf` (signed PDF) to make it available at `/certs/02-aws-devops.pdf`.
+
+Issuer: Amazon Web Services
+Date: 2022-07-15
+ID: AWS-DO-23456

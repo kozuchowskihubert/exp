@@ -1,0 +1,7 @@
+Placeholder Certificate: Docker & Kubernetes Specialist
+
+Replace with `03-docker-k8s.pdf`.
+
+Issuer: CNCF
+Date: 2021-05-20
+ID: CKS-34567

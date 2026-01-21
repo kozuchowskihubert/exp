@@ -1,0 +1,7 @@
+Placeholder Certificate: Microsoft Azure Data Engineer
+
+This file is a placeholder. Replace with the real signed PDF named `01-azure-data-engineer.pdf` for public hosting at `/certs/01-azure-data-engineer.pdf`.
+
+Issuer: Microsoft
+Date: 2023-10-01
+ID: AZ-900-12345

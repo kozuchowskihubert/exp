@@ -1,0 +1,65 @@
+name: Build & Deploy to Vercel
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to deploy'
+        required: false
+        default: 'main'
+      prod:
+        description: 'Deploy to production? true/false'
+        required: false
+        default: 'true'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Prefer the dispatched branch input when provided, otherwise use the ref from the event
+          ref: ${{ github.event.inputs.branch || github.ref }}
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install repo dependencies
+        run: |
+          cd portfolio-site
+          npm ci
+
+      - name: "Optional: Sync certs from S3"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          CERTS_S3_BUCKET: ${{ secrets.CERTS_S3_BUCKET }}
+        run: |
+          if [ -z "${CERTS_S3_BUCKET:-}" ]; then
+            echo "CERTS_S3_BUCKET not set, skipping S3 sync"
+            exit 0
+          fi
+          python3 -m pip install --upgrade awscli
+          mkdir -p portfolio-site/public/certs
+          aws s3 sync s3://${CERTS_S3_BUCKET} portfolio-site/public/certs --exact-timestamps
+
+      - name: Build site
+        run: |
+          cd portfolio-site
+          npm run build
+
+      - name: Deploy to Vercel using CLI
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          cd portfolio-site
+          npm install --no-audit --no-fund
+          npx vercel --prod --confirm --token "$VERCEL_TOKEN" --scope "$VERCEL_ORG_ID" --cwd . --project "$VERCEL_PROJECT_ID"
